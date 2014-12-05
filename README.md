@@ -1,6 +1,8 @@
-# Red-black trees 
+# Red-black trees
 
 Implementation in Prolog.
+
+(c) 2009-2014 [Roman Piták](http://pitak.net) roman@pitak.net
 
 Red-black trees are self-balancing binary search trees. The implementation is
 complex, but it has a good worst-case running time for its operations and is
@@ -48,5 +50,4 @@ is the total number of elements in the tree.
          |—[2]
             |—(1)
     
-Full documentation can be found in the [documentation.pdf](/documentaiton.pdf) file.
-
+Full documentation can be found in the [documentation.pdf](/documentation.pdf) file.
