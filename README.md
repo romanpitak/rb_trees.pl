@@ -2,7 +2,7 @@
 
 Implementation in Prolog.
 
-(c) 2009-2014 [Roman Piták](http://pitak.net) roman@pitak.net
+(c) 2009-2015 [Roman Piták](http://pitak.net) roman@pitak.net
 
 Red-black trees are self-balancing binary search trees. The implementation is
 complex, but it has a good worst-case running time for its operations and is
